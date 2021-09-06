@@ -9,6 +9,7 @@ Consiste em um Aplicativo Web onde você pode cadastrar seu pets.
 ## Layout web
 ![Web 1](https://github.com/aslac2020/imagespublicacao/blob/main/assets/images/Sites/Login.PNG)
 ![Web 1](https://github.com/aslac2020/imagespublicacao/blob/main/assets/images/Sites/registre.PNG)
+![Web 1](https://github.com/aslac2020/imagespublicacao/blob/main/assets/images/Sites/gatitoFotos.PNG)
 
 
 # Tecnologias utilizadas
